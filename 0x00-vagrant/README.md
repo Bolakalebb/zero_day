@@ -1,1 +1,1 @@
-how to code on your computer
+Vagrant - or - how to code in your computer
